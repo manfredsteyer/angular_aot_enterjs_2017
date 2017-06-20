@@ -1,0 +1,28 @@
+# AOT
+    855 inline.958d8329c8501362d4c5.bundle.js.gz
+  9.804 main.d449d1d4335d1252c4c1.bundle.js.gz
+ 18.958 polyfills.6ce0bf58446ef5c2585b.bundle.js.gz
+ 97.856 vendor.77b89d1b1b6fc55157f7.bundle.js.gz
+       127.473 Bytes
+
+- 18.958
+= 108.515
+
+# DEV
+
+  1.651 inline.bundle.js.gz
+  8.071 main.bundle.js.gz
+ 36.410 polyfills.bundle.js.gz
+430.988 vendor.bundle.js.gz
+       477.120 Bytes
+
+# PROD ohne AOT
+    854 inline.d00515ff03d696aeb608.bundle.js.gz
+  5.191 main.2d03fa13e3f1c383b3a3.bundle.js.gz
+ 18.958 polyfills.6ce0bf58446ef5c2585b.bundle.js.gz
+184.216 vendor.f8c5bacc6e802e883feb.bundle.js.gz
+       209.219 Bytes
+
+# Closure
+
+69.448 bundle.js.gz
